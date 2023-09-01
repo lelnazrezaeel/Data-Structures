@@ -1,5 +1,5 @@
 # Data-Structures-IUST
-My solutions to IUST's Data Structures Spring 2021, Dr. Rahmani.
+My solutions to IUST's Data Structures Spring 2022, Dr. Rahmani.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Exams
 ### Quizzes
