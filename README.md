@@ -18,6 +18,6 @@ My solutions to IUST's Data Structures Spring 2022, Dr. Rahmani.
 - Description: Theory-based homework assignments with theory questions related to the lesson.
 - Code: [Link to Theory Homeworks](https://github.com/lelnazrezaeel/Data-Structures-IUST/tree/main/Homeworks/Theory)
 
-## Notes
+## <img width="20" height="20" src="https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/68/41b883/external-Notes-work-from-home-smashingstocks-mixed-smashing-stocks-2.png" alt="external-Notes-work-from-home-smashingstocks-mixed-smashing-stocks-2"/> Notes
 - Description: Professor's slides and lecture materials.
 - Code: [Link to Notes](https://github.com/lelnazrezaeel/Data-Structures-IUST/tree/main/Notes)
