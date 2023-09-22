@@ -4,7 +4,7 @@ My solutions to IUST's Data Structures, Spring 2022, Dr. Rahmani.
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Exams
 ### Quizzes
 - Description: Folders for each quiz, from Quiz1 to Quiz24, containing quiz questions and materials.
-- Answers: [Link to Quizzes](https://github.com/lelnazrezaeel/Data-Structures-IUST/tree/main/Exams)
+- [Link to Quizzes](https://github.com/lelnazrezaeel/Data-Structures-IUST/tree/main/Exams)
 ### Midterm and Final Exams
 - Description: PDF files containing the midterm and final exam questions.
 - [Midterm Exam](https://github.com/lelnazrezaeel/Data-Structures-IUST/tree/main/Exams/MidtermExam_Azar_1400.pdf)
